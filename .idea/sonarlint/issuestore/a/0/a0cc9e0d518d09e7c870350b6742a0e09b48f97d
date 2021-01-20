@@ -1,0 +1,25 @@
+
+N
+java:S1444"2Make this "public static singleplayer" field final(åê³M8ê¶Ëí.
+O
+java:S1444
+"2Make this "public static buttonMatrix" field final(ì½ß8ßÙ©òë.
+z
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8Ü…ÅÏì.
+z
+java:S1104"^Make currentPlayerLabel a static final constant or non-public and provide accessors if needed.(ÆÜ‚U8À÷öËê.
+u
+java:S1104
+"XMake buttonMatrix a static final constant or non-public and provide accessors if needed.(ì½ß8ßÙ©òë.
+t
+java:S1104"XMake singleplayer a static final constant or non-public and provide accessors if needed.(åê³M8ê¶Ëí.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¯Ûú8À÷öËê.
+T
+java:S1444"8Make this "public static currentPlayerLabel" field final(ÆÜ‚U8À÷öËê.
+T
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8Ü…ÅÏì.
+s
+java:S1104	"VMake winChecker a static final constant or non-public and provide accessors if needed.(õ‘§‰8˜˜Öîê.
+M
+java:S1444	"0Make this "public static winChecker" field final(õ‘§‰8˜˜Öîê.

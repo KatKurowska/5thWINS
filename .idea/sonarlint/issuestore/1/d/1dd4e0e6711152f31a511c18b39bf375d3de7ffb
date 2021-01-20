@@ -1,0 +1,23 @@
+
+O
+java:S1444"2Make this "public static betterPlayer" field final(Ì¶í8¦¬ŠÑì.
+Q
+java:S1444"/Make this "public static gameScene" field final(¼©Êùÿÿÿÿ8…¶ÈĞì.
+X
+java:S1444"6Make this "public static buttonMatrixSize" field final(äêÏıÿÿÿÿ8ŞğŠÑì.
+M
+java:S1444"0Make this "public static rulesScene" field final(“äúŒ8Ó­­ûì.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Øó´Ÿ8ŞğŠÑì.
+~
+java:S1104"\Make buttonMatrixSize a static final constant or non-public and provide accessors if needed.(äêÏıÿÿÿÿ8ŞğŠÑì.
+M
+java:S1444"0Make this "public static startScene" field final(ô¡8ÂŒÉĞì.
+w
+java:S1104"UMake gameScene a static final constant or non-public and provide accessors if needed.(¼©Êùÿÿÿÿ8…¶ÈĞì.
+s
+java:S1104"VMake rulesScene a static final constant or non-public and provide accessors if needed.(“äúŒ8Ó­­ûì.
+s
+java:S1104"VMake startScene a static final constant or non-public and provide accessors if needed.(ô¡8ÂŒÉĞì.
+u
+java:S1104"XMake betterPlayer a static final constant or non-public and provide accessors if needed.(Ì¶í8¦¬ŠÑì.
